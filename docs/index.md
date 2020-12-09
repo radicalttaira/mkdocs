@@ -1,4 +1,4 @@
-# MkdocsをDockerで動かしてみた!
+# MkdocsをDockerで動かしてみた
 ## はじめに
 MkdocsをDockerで利用する方法です。  
 普通にMkdocsを導入する際に必要なmkdocs本体、デザインのインストールが不要になります。
