@@ -1,9 +1,0 @@
-version: '3'
-
-services:
-  web:
-    image: 'squidfunk/mkdocs-material'
-    volumes:
-      - '${PWD}:/docs'
-    tty: true
-    stdin_open: true
