@@ -31,8 +31,8 @@ site_name: サイト名
 # ページとmarkdownファイルを紐づける設定
 nav:
   - 概要: index.md
-  - ページ１: page1.md
-  - ページ２: page2.md
+  - page1: page1.md
+  - page2: page2.md
 
 # ページのデザイン設定
 theme:
