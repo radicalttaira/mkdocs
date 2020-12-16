@@ -2,9 +2,9 @@ site_name: My Docs
 
 # ページとmarkdownファイルを紐づける設定
 nav:
-  - 概要: index.md
-   - ページ１: page1.md
-   - ページ２: page2.md
+  - トップ: index.md
+  - ページ１: page1.md
+  - ページ２: page2.md
 
 # ページのデザイン設定
 theme:
