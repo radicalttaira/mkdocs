@@ -12,7 +12,7 @@ theme:
   language: 'ja'
   palette:
     primary: 'indigo'
-    accent: 'indigo'
+    accent: 'red'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
@@ -29,5 +29,5 @@ markdown_extensions:
   - codehilite
   - toc:
       permalink: true
-  - pymdownx.tasklist:  
+  - pymdownx.tasklist:
       custom_checkbox: true
